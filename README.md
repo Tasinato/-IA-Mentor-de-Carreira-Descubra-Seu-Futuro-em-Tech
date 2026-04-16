@@ -127,12 +127,18 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 - Estruturação de fluxos de decisão
 - Personalização de experiências com IA
 
----
-## 👨‍🏫 Instrutor
+## 👨‍🏫 Instrutores
 
-**Felipe Aguiar**  
+### Felipe Aguiar
 🎉 10y+ em sistemas comerciais com .NET C# e Node.js  
 🌟 Desenvolvedor Fullstack e Coordenador de Educação na DIO  
+👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js  
+
+---
+
+### Henrique Eduardo Souza  
+🏆 Microsoft MVP  
+💼 Especialista em tecnologias Microsoft  
 
 ---
 
@@ -145,6 +151,12 @@ AI & Software Engineer | Applied AI | Computer Vision
 - GitHub: https://github.com/Tasinato  
 
 ---
+
+## 📌 Contexto
+
+Este projeto foi desenvolvido como parte de um desafio prático da **DIO (Digital Innovation One)**, sob orientação dos instrutores **Felipe Aguiar** e **Henrique Eduardo Souza**.
+
+A implementação, adaptação e estruturação do projeto foram realizadas por **Rafael Tasinato**, com foco em aplicação prática de **Agentes de IA para orientação de carreira**.
 
 ## 📄 Licença
 
